@@ -1,5 +1,8 @@
 ---
 layout: default
-title: Brush Settings
+title: Brushes
+has_children: true
+nav_order: 2
 ---
-## How to adjust pressure sensitivity...
+# Brushes Overview
+Here you will find all my notes regarding brush settings.
