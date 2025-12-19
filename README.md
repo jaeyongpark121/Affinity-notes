@@ -1,1 +1,3 @@
-# Affinity-notes
+# How to Draw with Affinity
+## Lesson 1: Basic Shapes
+This is where I will put my notes...
