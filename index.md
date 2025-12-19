@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+nav_order: 1
 ---
 # My Affinity Drawing Journey
 Welcome! Here are my categorized notes:
