@@ -32,6 +32,21 @@
 + <B>'vector crop tool'</B>로 벡터 도형을 자를 수 있습니다. 
 
 ## pixel  
+이미지를 끌어와 편집하는 것이 주입니다.  
+
+
+참고로, pixel mode에서는 artboard 크기를 바꿀 수 없습니다. 위쪽 탭을 통해 vector mode로 이동한 뒤에  
+'artboard tool'이나 'move tool'을 통해 바꾼뒤 다시 pixel mode로 이동합시다.
+
++ <B>'object selection tool'</B>로 이미지의 일부를 선택합니다. 브러쉬 모드로도 사용할 수 있습니다.
+(위쪽 탭을 통해, 더 섬세하게 자르고 배경을 제거하거나 마스크를 사용할 수 있습니다.)
+(D를 눌러 선택을 취소할 수 있습니다.)
++ <B>'gradient fill tool'</B>로 gradient color를 지정할 수 있습니다.
++ <B>'brush tool'</B>로 선을 그립니다. 상단 탭과 우측 탭으로 설정을 다양하게 바꿀 수 있습니다.
++ <B>'adjustment brush tool'</B>로 다양한 효과를 가진 브러시를 사용할 수 있습니다.
++ <B>'filter crop tool'</B>로 일정 영역에 효과를 주는 브러시를 사용할 수 있습니다.
+(효과를 주는 브러시들은 전부 원본을 바꾸지 않습니다. 원할 때 효과 레이어를 지워 효과를 없앨 수 있습니다.)
++ <B>'inpainting brush tool'</B> 그림의 미세한 부분을 없앨 수 있습니다.  
 
 categorized notes:
 * [Basics of Brushes](./basics/brushes.md)
