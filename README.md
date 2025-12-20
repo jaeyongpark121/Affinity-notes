@@ -46,8 +46,13 @@
 + <B>'adjustment brush tool'</B>로 다양한 효과를 가진 브러시를 사용할 수 있습니다.
 + <B>'filter crop tool'</B>로 일정 영역에 효과를 주는 브러시를 사용할 수 있습니다.
 (효과를 주는 브러시들은 전부 원본을 바꾸지 않습니다. 원할 때 효과 레이어를 지워 효과를 없앨 수 있습니다.)
-+ <B>'inpainting brush tool'</B> 그림의 미세한 부분을 없앨 수 있습니다.  
++ <B>'inpainting brush tool'</B> 그림의 미세한 부분을 없앨 수 있습니다.
 
-categorized notes:
-* [Basics of Brushes](./basics/brushes.md)
-* [Layer Management](./layers.md)
+## layout
+파워포인트처럼 페이지를 추가할 수 있습니다. 출판물 용도입니다.
++ <B>'frame text tool'</B>로 텍스트를 넣고, 페이지간 자연스러운 연결을 할 수 있습니다.
++ <B>'table tool'</B>로 표를 넣을 수 있습니다.
+
+
+windows > general > assets에서 에셋 창을 볼 수 있습니다.
+file > export에서 다양한 포맷으로 파일을 내보낼 수 있습니다.
